@@ -12,7 +12,7 @@ To help you explore the design space, we will hold events such as feedback sessi
 Proposal
 ---
 
-Submit project proposals using [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSca7R6fNa67vwE2sFHNus7aqaeU9Brr_tIzb-9_tmZff4psdQ/viewform?usp=sf_link).
+Submit project proposals using [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc9DFlcClPArC1RKNFsXzfJfauZA57ksU85kT0hX2OEEDlxqw/viewform?usp=sf_link).
 You may submit more than one proposal.
 1-3 folks per team.
 
@@ -77,19 +77,14 @@ If you use outside sources please provide a References section with links at the
 
 Resources
 ---
-
-Stanford recently released a set of [interesting datasets](http://cjlab.stanford.edu/2015/09/30/lab-launch-and-data-sets/).
-
-Viau maintains a [huge list of d3 examples](http://christopheviau.com/d3list/gallery.html), some may have multiple views.
-
-Utah has a [great list of resources](http://dataviscourse.net/2015/resources/) including data links.
-
 The "[Data is Plural](https://tinyletter.com/data-is-plural/archive)" weekly letter often contains interesting datasets.
+
+Think of something you're interested in, go find data on it! Include data processing as part of your work on this project.
 
 Requirements
 ---
 
-Store the following in your github repository:
+Store the following in your GitHub repository:
 
 - Code - All web site files and libraries assuming they are not too big to include
 - Data - Include all the data that you used in your project. If the data is too large for github store it on a cloud storage provider, such as Dropbox or Yousendit.
@@ -117,4 +112,4 @@ Your individual project score will also be influenced by your peer evaluations.
 References
 ---
 
-- This final project is adapted from http://dataviscourse.net/2015/project/
+- This final project is adapted from https://www.dataviscourse.net/2020/project/
