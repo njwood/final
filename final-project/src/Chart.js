@@ -1,6 +1,10 @@
 import React from 'react' 
 import * as d3 from 'd3'
 
+// Filter function (d3 selection filter) filter based on how the bind is returned 
+// Other option is to look at the .class option where each .salt for example has a class
+// Coorindates of the lines, where is the center, getting the center of geospacial objects
+
 class Chart extends React.Component {
     constructor(props) {
         super(props)
@@ -10,37 +14,37 @@ class Chart extends React.Component {
         }
     }
     
-    componentDidMount() {
+    componentWillMount() {
         this.drawChart()
     }
 
     drawChart() {
-        const data = [12, 5, 6, 6, 9, 10];
+        const data = this.props.data;
     
         const svg = d3.select("body")
-        .append("svg")
-        .attr("width", w)
-        .attr("height", h)
-        .style("margin-left", 100);
+            .append("svg")
+            .attr("width", this.props.width)
+            .attr("height", this.props.height)
+            .style("margin-left", 100);
                     
         svg.selectAll("rect")
-        .data(data)
-        .enter()
-        .append("rect")
-        .attr("x", (d, i) => i * 70)
-        .attr("y", (d, i) => h - 10 * d)
-        .attr("width", 65)
-        .attr("height", (d, i) => d * 10)
-        .attr("fill", "green")
+            .data(data)
+            .enter()
+            .append("rect")
+            .attr("x", (d, i) => i * 70)
+            .attr("y", (d, i) => this.props.height - 10 * d)
+            .attr("width", 65)
+            .attr("height", (d, i) => d * 10)
+            .attr("fill", "green")
     }
 
     render() {
         return (
-            <div>
-
+            <div id={"#" + this.props.id}>
+                <h1> Our Visualization </h1>
             </div>
         )
     }
 }
 
-export default Chart
+export default Chart;
