@@ -1,5 +1,6 @@
 import React from 'react' 
 import * as d3 from 'd3'
+import { Typography } from '@material-ui/core'
 
 // Filter function (d3 selection filter) filter based on how the bind is returned 
 // Other option is to look at the .class option where each .salt for example has a class
@@ -41,7 +42,7 @@ class Chart extends React.Component {
     render() {
         return (
             <div id={"#" + this.props.id}>
-                <h1> Our Visualization </h1>
+                <Typography> Test test </Typography>
             </div>
         )
     }
