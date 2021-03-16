@@ -35,5 +35,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@material-ui/core": "^4.11.3",
+    "d3-geo": "^2.0.1",
+    "d3-geo-projection": "^3.0.0"
   }
 }
