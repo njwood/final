@@ -1,5 +1,6 @@
 import React from 'react';
 import Chart from './Chart'
+import TitleBlock from './TitleBlock'
 
 class App extends React.Component {
 
@@ -13,7 +14,8 @@ class App extends React.Component {
   render() {
     return (
         <div>
-          <Chart data={this.state.data} width={this.state.width} height={this.state.height}/>
+          <TitleBlock />
+          <Chart data={this.state.data} width={this.state.width} height={this.state.height} style={{display: 'flex', alignItems: 'center', marginLeft: 500}}/>
         </div>
       );
     }

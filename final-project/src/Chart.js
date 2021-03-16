@@ -41,9 +41,7 @@ class Chart extends React.Component {
 
     render() {
         return (
-            <div id={"#" + this.props.id}>
-                <Typography> Test test </Typography>
-            </div>
+            <div id={"#" + this.props.id}> </div>
         )
     }
 }
