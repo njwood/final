@@ -15,7 +15,6 @@ class App extends React.Component {
     return (
         <div>
           <TitleBlock />
-          <Chart data={this.state.data} width={this.state.width} height={this.state.height} style={{display: 'flex', alignItems: 'center', marginLeft: 500}}/>
         </div>
       );
     }
