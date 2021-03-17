@@ -91,8 +91,11 @@ class Chart extends React.Component {
                 .attr("fill", "#b8b8b8")
                 .style('opacity', 0.3)
                 .attr("d", d => {
-
-                    path(d.geometry.coordinates)
+                    console.log(d.geometry)
+                    return (d.geometry)
+                })
+                .attr('id', d=> {
+                    return d.properties.name
                 })
                 .style("stroke", "#fff")
                 .style("stroke-width", 1)
