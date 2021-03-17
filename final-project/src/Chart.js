@@ -20,6 +20,8 @@ class Chart extends React.Component {
     }
 
     drawChart() {
+        console.log(d3.version)
+
        d3.select('body')
             .append('div')
             .attr('id', 'mapDiv')
@@ -31,7 +33,7 @@ class Chart extends React.Component {
             .attr("height", this.props.height)
 
         const geo_d3 = Object.assign({}, require("d3-geo"), require("d3-geo-projection"))
-        let projection = geo_d3.geoMercator()
+        let projection = d3.geoAlbers()
             .scale(85)
             .translate([svg.width / 2, svg.height / 2 * 1.3])
 
@@ -42,21 +44,37 @@ class Chart extends React.Component {
         let mapData;
         let spicesData;
 
-        Promise.all([
-            // d3.json('data_map.json'),
-            d3.json('https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson'),
-            d3.csv(data)
-        ]).then(([map_data,spices_data]) => {
-            mapData = map_data
+        d3.queue()
+            // .defer(d3.json, 'world.json')
+            // .defer(d3.json, 'data_map.json')
+            .defer(d3.json, 'lastChance.json')
+            .await(function (loaded) {
+                console.log(loaded)
+                mapIsLoaded()
+            })
+
+        function mapIsLoaded(error, topo) {
+            console.log(error)
+            console.log(topo)
+            mapData = topo
             makeMap()
-            spiceDataSetup(spices_data)
+        }
 
-            /*TODO: When ready switch over to this
-            mapData = map_data
-            spiceDataSetup(spices_data).then(readyMap)
-             */
+        // Promise.all([
+        //     // d3.json('data_map.json'),
+        //     d3.json('https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson'),
+        //     d3.csv(data)
+        // ]).then(([map_data,spices_data]) => {
+        //     mapData = map_data
+        //     makeMap()
+        //     spiceDataSetup(spices_data)
 
-        }).catch(err => console.log('Error loading or parsing data ' + err))
+        //     /*TODO: When ready switch over to this
+        //     mapData = map_data
+        //     spiceDataSetup(spices_data).then(readyMap)
+        //      */
+        //
+        // }).catch(err => console.log('Error loading or parsing data ' + err))
 
         function spiceDataSetup(rawData) {
                 for (let i = 0; i < rawData.length; i++){
@@ -91,8 +109,8 @@ class Chart extends React.Component {
                 .attr("fill", "#b8b8b8")
                 .style('opacity', 0.3)
                 .attr("d", d => {
-                    console.log(d.geometry)
-                    return (d.geometry)
+                    console.log(path(d))
+                    return path(d)
                 })
                 .attr('id', d=> {
                     return d.properties.name
