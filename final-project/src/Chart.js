@@ -26,7 +26,8 @@ class Chart extends React.Component {
             .append("svg")
             .attr("width", this.props.width)
             .attr("height", this.props.height)
-            .style("margin-left", 100);
+            .style("margin-left", 600)
+
                     
         svg.selectAll("rect")
             .data(data)
