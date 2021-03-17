@@ -2,7 +2,7 @@ Spice,Cuisine,Origin
 Adobo,Filipino,Philippines
 Adobo,Latin American,Philippines
 Adobo,South American,Philippines
-Adobo,Mexican,Philippinea
+Adobo,Mexican,Philippines
 Adobo,Spanish,Philippines
 Aji Panca Chiles,Asian,Peru
 Aji Panca Chiles,Cajun,Peru
@@ -14,40 +14,40 @@ Aji Panca Chiles,Mexican,Peru
 Aji Panca Chiles,Pakistani,Peru
 Aji Panca Chiles,Southwestern American,Peru
 Aji Panca Chiles,Thai,Peru
-Mediterranean Aleppo Pepper,Mediterranean,Turkey
-Mediterranean Aleppo Pepper,Middle Eastern,Turkey
-Mediterranean Aleppo Pepper,Moroccan,Turkey
-Mediterranean Aleppo Pepper,Turkish,Turkey
-Ancho Chile,Cajun,Mexico
-Ancho Chile,Caribbean ,Mexico
-Ancho Chile,Latin American,Mexico
-Ancho Chile,Mexican,Mexico
-Ancho Chile,Southwestern American,Mexico
-Annatto,Caribbean,Latin American
-Annatto,Latin American,Latin American
-Annatto,Mexican,Latin American
+"Aleppo Pepper, Mediterranean",Mediterranean,Turkey
+"Aleppo Pepper, Mediterranean",Middle Eastern,Turkey
+"Aleppo Pepper, Mediterranean",Moroccan,Turkey
+"Aleppo Pepper, Mediterranean",Turkish,Turkey
+Ancho Chile ,Cajun,Mexico
+Ancho Chile ,Caribbean ,Mexico
+Ancho Chile ,Latin American,Mexico
+Ancho Chile ,Mexican,Mexico
+Ancho Chile ,Southwestern American,Mexico
+Annatto ,Caribbean,Latin American
+Annatto ,Latin American,Latin American
+Annatto ,Mexican,Latin American
 Assam,Indian,India
-Aji Amarillo Chile,Asian,Peru
-Aji Amarillo Chile,Cajun,Peru
-Aji Amarillo Chile,Caribbean,Peru
+Aji Amarillo Chile ,Asian,Peru
+Aji Amarillo Chile ,Cajun,Peru
+Aji Amarillo Chile ,Caribbean,Peru
 Aji Amarillo Chile,Chinese,Peru
-Aji Amarillo Chile,Indian,Peru
-Aji Amarillo Chile,Latin American,Peru
-Aji Amarillo Chile,Mexican,Peru
-Aji Amarillo Chile,Pakistani,Peru
-Aji Amarillo Chile,Southwestern American,Peru
-Aji Amarillo Chile,Thai,Peru
-Allspice,Caribbean,Jamaica
-Allspice,English,Jamaica
-Allspice,European,Jamaica
-Allspice,Indian,Jamaica
-Allspice,Jamaican,Jamaica
-Allspice,Mediterranean,Jamaica
-Allspice,Mexican,Jamaica
-Allspice,Middle Eastern,Jamaica
-Allspice,Canadian,Jamaica
-Allspice,American,Jamaica
-Allspice,Caribbean,Jamaica
+Aji Amarillo Chile ,Indian,Peru
+Aji Amarillo Chile ,Latin American,Peru
+Aji Amarillo Chile ,Mexican,Peru
+Aji Amarillo Chile ,Pakistani,Peru
+Aji Amarillo Chile ,Southwestern American,Peru
+Aji Amarillo Chile ,Thai,Peru
+Allspice ,Caribbean,Jamaica
+Allspice ,English,Jamaica
+Allspice ,European,Jamaica
+Allspice ,Indian,Jamaica
+Allspice ,Jamaican,Jamaica
+Allspice ,Mediterranean,Jamaica
+Allspice ,Mexican,Jamaica
+Allspice ,Middle Eastern,Jamaica
+Allspice ,Canadian,Jamaica
+Allspice ,American,Jamaica
+Allspice ,Caribbean ,Jamaica
 Aji Paprika Chiles,Asian,Peru
 Aji Paprika Chiles,Cajun,Peru
 Aji Paprika Chiles,Caribbean,Peru
@@ -116,7 +116,7 @@ Bay Leaves,French,Mediterranean
 Bay Leaves,Mediterranean,Mediterranean
 Bay Leaves,Moroccan,Mediterranean
 Bay Leaves,Turkish,Mediterranean
-Hickory BBQ Seasoning,American,United States of America
+"BBQ Seasoning, Hickory",American,United States of America
 Black Fungus,American,China
 Black Fungus,Asian,China
 Black Fungus,Chinese,China
@@ -127,20 +127,20 @@ Black Pepper,European,India
 Black Pepper,Indian,India
 Black Truffle Salt,Mediterranean,European
 Black Truffle Salt,European,European
-Chile Bolete Mushrooms,American,Chilean
-Chile Bolete Mushrooms,Asian,Chilean
-Chile Bolete Mushrooms,Chilean,Chilean
-Chile Bolete Mushrooms,Chinese,Chilean
-Chile Bolete Mushrooms,European,Chilean
-Chile Bolete Mushrooms,French,Chilean
+Chile Bolete Mushrooms,American,Chile
+Chile Bolete Mushrooms,Asian,Chile
+Chile Bolete Mushrooms,Chilean,Chile
+Chile Bolete Mushrooms,Chinese,Chile
+Chile Bolete Mushrooms,European,Chile
+Chile Bolete Mushrooms,French,Chile
 Berbere Spice,Ethiopian,Ethiopian
 Black Garlic Cloves,Chinese,Korean
 Black Garlic Cloves,Indian,Korean
 Black Garlic Cloves,Korean,Korean
 Black Garlic Cloves,Vietnamese,Korean
-Black Salt,Indian,India
-Black Salt,Pakistani,India
-Black Salt,Bangledeshi,India
+Black Salt ,Indian,India
+Black Salt ,Pakistani,India
+Black Salt ,Bangledeshi,India
 Black Trumpet Mushrooms,American,Bulgaria
 Black Trumpet Mushrooms,Bulgarian,Bulgaria
 Black Trumpet Mushrooms,Chinese,Bulgaria
@@ -170,11 +170,11 @@ Cardamom Seeds,Indian,India
 Cardamom Seeds,Indonesian,India
 Cardamom Seeds,North African,India
 Cardamom Seeds,Scandinavian,India
-Red Cardamom,Asian,India
-Red Cardamom,Indian,India
-Red Cardamom,Indonesian,India
-Red Cardamom,North African,India
-Red Cardamom,Scandinavian,India
+"Cardamom, Red ",Asian,India
+"Cardamom, Red ",Indian,India
+"Cardamom, Red ",Indonesian,India
+"Cardamom, Red ",North African,India
+"Cardamom, Red ",Scandinavian,India
 Cassia Bark,American,China
 Cassia Bark,Asian,China
 Cassia Bark,Chinese,China
@@ -214,19 +214,19 @@ Chiltepin Pepper,Mexican,Mexico
 Chiltepin Pepper,Pakistani,Mexico
 Chiltepin Pepper,Southwestern American,Mexico
 Chiltepin Pepper,Thai,Mexico
-Morita Chipotle Chile Peppers,Cajun,Mexico
-Morita Chipotle Chile Peppers,Caribbean ,Mexico
-Morita Chipote Chile Peppers,Latin American,Mexico
-Morita Chipotle Chile Peppers,Mexican,Mexico
-Morita Chipotle Chile Peppers,Southwestern American,Mexico
+"Chipotle Chile Peppers, Morita",Cajun,Mexico
+"Chipotle Chile Peppers, Morita",Caribbean ,Mexico
+"Chipotle Chile Peppers, Morita",Latin American,Mexico
+"Chipotle Chile Peppers, Morita",Mexican,Mexico
+"Chipotle Chile Peppers, Morita",Southwestern American,Mexico
 Christmas Peppercorn Blend,American,India
 Christmas Peppercorn Blend,Indian,India
-Ceylon Cinnamon,American,Sri Lanka
-Ceylon Cinnamon,Chilean,Sri Lanka
-Ceylon Cinnamon,Indian,Sri Lanka
-Ceylon Cinnamon,Sri Lankan,Sri Lanka
-Ceylon Cinnamon,South American,Sri Lanka
-Ceylon Cinnamon,Spanish,Sri Lanka
+"Cinnamon, Ceylon",American,Sri Lanka
+"Cinnamon, Ceylon",Chilean,Sri Lanka
+"Cinnamon, Ceylon",Indian,Sri Lanka
+"Cinnamon, Ceylon",Sri Lankan,Sri Lanka
+"Cinnamon, Ceylon",South American,Sri Lanka
+"Cinnamon, Ceylon",Spanish,Sri Lanka
 Cloves,Asian,Indonesia
 Cloves,Chinese,Indonesia
 Cloves,English,Indonesia
@@ -244,16 +244,16 @@ Coconut Chips,Malaysian,Southeast Asian
 Coconut Chips,Southeast Asian,Southeast Asian
 Coconut Chips,Thai,Southeast Asian
 Coconut Chips,Vietnamese,Southeast Asian
-Fancy Shredded Coconut,American,Philippines
-Fancy Shredded Coconut,Asian,Philippines
-Fancy Shredded Coconut,Brazilian,Philippines
-Fancy Shredded Coconut,Caribbean,Philippines
-Fancy Shredded Coconut,Indian,Philippines
-Fancy Shredded Coconut,Indonesian,Philippines
-Fancy Shredded Coconut,Malaysian,Philippines
-Fancy Shredded Coconut,Southeast Asian,Philippines
-Fancy Shredded Coconut,Thai,Philippines
-Fancy Shredded Coconut,Vietnamese,Philippines
+"Coconut, Fancy Shredded",American,Philippines
+"Coconut, Fancy Shredded",Asian,Philippines
+"Coconut, Fancy Shredded",Brazilian,Philippines
+"Coconut, Fancy Shredded",Caribbean,Philippines
+"Coconut, Fancy Shredded",Indian,Philippines
+"Coconut, Fancy Shredded",Indonesian,Philippines
+"Coconut, Fancy Shredded",Malaysian,Philippines
+"Coconut, Fancy Shredded",Southeast Asian,Philippines
+"Coconut, Fancy Shredded",Thai,Philippines
+"Coconut, Fancy Shredded",Vietnamese,Philippines
 Coffee Chile Spice Rub,American,United States of America
 Coriander,Indian,Italy
 Coriander,Latin American,Italy
@@ -266,19 +266,19 @@ Coriander,American,Italy
 Coriander,Canadian,Italy
 Coriander,Southeast Asian,Italy
 Coriander,Vietnamese,Italy
-Cracked Coriander,American,Italy
-Cracked Coriander,Asian,Italy
-Cracked Coriander,Indian,Italy
-Cracked Coriander,Latin American,Italy
-Cracked Coriander,Mediterranean,Italy
-Cracked Coriander,Mexican,Italy
-Cracked Coriander,Middle Eastern,Italy
-Cracked Coriander,Moroccan,Italy
-Cracked Coriander,North African,Italy
-Cracked Coriander,Canadian,Italy
-Cracked Coriander,Southeast Asian,Italy
-Cracked Coriander,Southwestern American,Italy
-Cracked Coriander,Vietnamese,Italy
+"Coriander, Cracked",American,Italy
+"Coriander, Cracked",Asian,Italy
+"Coriander, Cracked",Indian,Italy
+"Coriander, Cracked",Latin American,Italy
+"Coriander, Cracked",Mediterranean,Italy
+"Coriander, Cracked",Mexican,Italy
+"Coriander, Cracked",Middle Eastern,Italy
+"Coriander, Cracked",Moroccan,Italy
+"Coriander, Cracked",North African,Italy
+"Coriander, Cracked",Canadian,Italy
+"Coriander, Cracked",Southeast Asian,Italy
+"Coriander, Cracked",Southwestern American,Italy
+"Coriander, Cracked",Vietnamese,Italy
 Cream of Tartar,American,Iran
 Cream of Tartar,European,Iran
 Cumin Seeds,American,Mediterranean
@@ -307,16 +307,16 @@ Candy Cap Mushrooms,Chinese,United States of America
 Candy Cap Mushrooms,European,United States of America
 Candy Cap Mushrooms,French,United States of America
 Cape Cod Seasoning,American,United States of America
-Black Cardamom Pods,Asian,China
-Black Cardamom Pods,Indian,China
-Black Cardamom Pods,Indonesian,China
-Black Cardamom Pods,North African,China
-Black Cardamom Pods,Scandinavian,China
-Ground Carom Seeds,Egyptian,India
-Ground Carom Seeds,Indian,India
-Ground Carom Seeds,Iranian,India
-Ground Carom Seeds,Middle Eastern,India
-Ground Carom Seeds,Pakistani,India
+"Cardamom Pods, Black",Asian,China
+"Cardamom Pods, Black",Indian,China
+"Cardamom Pods, Black",Indonesian,China
+"Cardamom Pods, Black",North African,China
+"Cardamom Pods, Black",Scandinavian,China
+"Carom Seeds, Ground",Egyptian,India
+"Carom Seeds, Ground",Indian,India
+"Carom Seeds, Ground",Iranian,India
+"Carom Seeds, Ground",Middle Eastern,India
+"Carom Seeds, Ground",Pakistani,India
 Champignon White Button Mushrooms,Asian,North American
 Champignon White Button Mushrooms,Chinese,North American
 Champignon White Button Mushrooms,European,North American
@@ -331,17 +331,17 @@ Chimichurri Blend,Ecuadorian,Argentina
 Chimichurri Blend,Mexican,Argentina
 Chimichurri Blend,Nicaraguan,Argentina
 Chimichurri Blend,Uruguayan,Argentina
-Brown Chipotle Chili Powder,Cajun,Mexico
-Brown Chipotle Chili Powder,Caribbean,Mexico
-Brown Chipotle Chili Powder,Latin American,Mexico
-Brown Chipotle Chili Powder,Mexican,Mexico
-Brown Chipotle Chili Powder,Tex-Mex,Mexico
-Brown Chipotle Chili Powder,Thai,Mexico
-Chive,American,European
-Chive,Asian,European
-Chive,Chinese,European
-Chive,European,European
-Chive,Indian,European
+"Chipotle Chili Powder, Brown",Cajun,Mexico
+"Chipotle Chili Powder, Brown",Caribbean,Mexico
+"Chipotle Chili Powder, Brown",Latin American,Mexico
+"Chipotle Chili Powder, Brown",Mexican,Mexico
+"Chipotle Chili Powder, Brown",Tex-Mex,Mexico
+"Chipotle Chili Powder, Brown",Thai,Mexico
+Chive*,American,European
+Chive*,Asian,European
+Chive*,Chinese,European
+Chive*,European,European
+Chive*,Indian,European
 Cilantro Flakes,American,Mediterranean
 Cilantro Flakes,Asian,Mediterranean
 Cilantro Flakes,Caribbean,Mediterranean
@@ -355,26 +355,26 @@ Cinnamon Sticks,Indian,Indonesia
 Cinnamon Sticks,Indonesian,Indonesia
 Cinnamon Sticks,Mexican,Indonesia
 Cinnamon Sticks,Spanish,Indonesia
-Korintje Cinnamon,American,Indonesia
-Korintje Cinnamon,Asian,Indonesia
-Korintje Cinnamon,Indian,Indonesia
-Korintje Cinnamon,Mexican,Indonesia
-Korintje Cinnamon,Moroccan,Indonesia
-Korintje Cinnamon,South American,Indonesia
-Korintje Cinnamon,Spanish,Indonesia
-Whole Cloves,Asian,Indonesia
-Whole Cloves,Chinese,Indonesia
-Whole Cloves,English,Indonesia
-Macaroon Coconut,Asian,Philippines
-Macaroon Coconut,Brazilian,Philippines
-Macaroon Coconut,Caribbean,Philippines
-Macaroon Coconut,Filipino,Philippines
-Macaroon Coconut,Indian,Philippines
-Macaroon Coconut,Indonesian,Philippines
-Macaroon Coconut,Malaysian,Philippines
-Macaroon Coconut,Southeast Asian,Philippines
-Macaroon Coconut,Thai,Philippines
-Macaroon Coconut,Vietnamese,Philippines
+"Cinnamon, Korintje",American,Indonesia
+"Cinnamon, Korintje",Asian,Indonesia
+"Cinnamon, Korintje",Indian,Indonesia
+"Cinnamon, Korintje",Mexican,Indonesia
+"Cinnamon, Korintje",Moroccan,Indonesia
+"Cinnamon, Korintje",South American,Indonesia
+"Cinnamon, Korintje",Spanish,Indonesia
+"Cloves, Whole",Asian,Indonesia
+"Cloves, Whole",Chinese,Indonesia
+"Cloves, Whole",English,Indonesia
+"Coconut, Macaroon",Asian,Philippines
+"Coconut, Macaroon",Brazilian,Philippines
+"Coconut, Macaroon",Caribbean,Philippines
+"Coconut, Macaroon",Filipino,Philippines
+"Coconut, Macaroon",Indian,Philippines
+"Coconut, Macaroon",Indonesian,Philippines
+"Coconut, Macaroon",Malaysian,Philippines
+"Coconut, Macaroon",Southeast Asian,Philippines
+"Coconut, Macaroon",Thai,Philippines
+"Coconut, Macaroon",Vietnamese,Philippines
 Cubeb Pepper,Arabic,Indonesia
 Cubeb Pepper,Asian,Indonesia
 Cubeb Pepper,Chinese,Indonesia
@@ -382,12 +382,12 @@ Cubeb Pepper,Indian,Indonesia
 Cubeb Pepper,Indonesian,Indonesia
 Cubeb Pepper,Moroccan,Indonesia
 Calabrian Chile Peppers,Italian,Italy
-Green Cardamom Pods,Asian,India
-Green Cardamom Pods,Indian,India
-Green Cardamom Pods,Indonesian,India
-Green Cardamom Pods,North African,India
-Green Cardamom Pods,Scandinavian,India
-Ground Cardamom,Guatemalan,India
+"Cardamom Pods, Green",Asian,India
+"Cardamom Pods, Green",Indian,India
+"Cardamom Pods, Green",Indonesian,India
+"Cardamom Pods, Green",North African,India
+"Cardamom Pods, Green",Scandinavian,India
+"Cardamom, Ground",Guatemalan,India
 Cascabel Chile Peppers,Asian,Mexico
 Cascabel Chile Peppers,Cajun,Mexico
 Cascabel Chile Peppers,Caribbean,Mexico
@@ -426,11 +426,11 @@ Chili Powder,American,Latin American
 Chili Powder,Asian,Latin American
 Chili Powder,Mexican,Latin American
 Chili Powder,Southwestern American,Latin American
-Brown Chipotle Chile Peppers,Cajun,Mexico
-Brown Chipotle Chile Peppers,Caribbean,Mexico
-Brown Chipotle Chile Peppers,Latin American,Mexico
-Brown Chipotle Chile Peppers,Mexican,Mexico
-Brown Chipotle Chile Peppers,Southwestern American,Mexico
+"Chipotle Chile Peppers, Brown",Cajun,Mexico
+"Chipotle Chile Peppers, Brown",Caribbean,Mexico
+"Chipotle Chile Peppers, Brown",Latin American,Mexico
+"Chipotle Chile Peppers, Brown",Mexican,Mexico
+"Chipotle Chile Peppers, Brown",Southwestern American,Mexico
 Chipotle Creole Spice Rub,Cajun,United States of America
 Chipotle Creole Spice Rub,Creole,United States of America
 Saigon cinnamon,American,Vietnam
@@ -439,9 +439,9 @@ Saigon cinnamon,Indian,Vietnam
 Saigon cinnamon,South American,Vietnam
 Saigon cinnamon,Southeast Asian,Vietnam
 Saigon cinnamon,Vietnamese,Vietnam
-Cocoa Nibs,American,South American
-Cocoa Nibs,Latin American,South American
-Cocoa Nibs,Mexican,South American
+Cocoa Nibs*,American,South American
+Cocoa Nibs*,Latin American,South American
+Cocoa Nibs*,Mexican,South American
 Daikon Radish Seeds,American,China
 Dill ,European,West Asian
 Dill ,German,West Asian
@@ -453,8 +453,8 @@ Dill ,Canadian,West Asian
 Dill ,Russian,West Asian
 Dill ,Scandinavian,West Asian
 Dill ,Turkish,West Asian
-Dry Mexican Mole Spice Blend,Mexican,Mexico
-Dry Mexican Mole Spice Blend,Tex-Mex,Mexico
+Dry Mexican Mole Spice Blend*,Mexican,Mexico
+Dry Mexican Mole Spice Blend*,Tex-Mex,Mexico
 Indian Dill Seed,European,India
 Indian Dill Seed,German,India
 Indian Dill Seed,Greek,India
@@ -471,15 +471,15 @@ Enoki Mushrooms,Chinese,Japan
 Enoki Mushrooms,European,Japan
 Enoki Mushrooms,French,Japan
 Enoki Mushrooms,Japanese,Japan
-Fennel,American,European
-Fennel,Asian,European
-Fennel,Chinese,European
-Fennel,French,European
-Fennel,Jamaican,European
-Fennel,Mediterranean,European
-Fennel,Moroccan,European
-Fenugreek,Ethiopian,Mediterranean
-Fenugreek,Indian,Mediterranean
+Fennel*,American,European
+Fennel*,Asian,European
+Fennel*,Chinese,European
+Fennel*,French,European
+Fennel*,Jamaican,European
+Fennel*,Mediterranean,European
+Fennel*,Moroccan,European
+Fenugreek*,Ethiopian,Mediterranean
+Fenugreek*,Indian,Mediterranean
 Fenugreek Leaves*,Albanian,Mediterranean
 Fenugreek Leaves*,European,Mediterranean
 Fenugreek Leaves*,French,Mediterranean
@@ -509,20 +509,20 @@ Garlic Powder,Middle Eastern,Central Asian
 Garlic Powder,Moroccan,Central Asian
 Garlic Powder,Thai,Central Asian
 Garlic Powder,Vietnamese,Central Asian
-Granulated Garlic,Cajun,Central Asian
-Granulated Garlic,Chinese,Central Asian
-Granulated Garlic,Creole,Central Asian
-Granulated Garlic,French,Central Asian
-Granulated Garlic,Greek,Central Asian
-Granulated Garlic,Indian,Central Asian
-Granulated Garlic,Italian,Central Asian
-Granulated Garlic,Korean,Central Asian
-Granulated Garlic,Central Asian
-Granulated Garlic,Mexican,Central Asian
-Granulated Garlic,Middle Eastern,Central Asian
-Granulated Garlic,Moroccan,Central Asian
-Granulated Garlic,Thai,Central Asian
-Granulated Garlic,Vietnamese,Central Asian
+"Garlic, Granulated",Cajun,Central Asian
+"Garlic, Granulated",Chinese,Central Asian
+"Garlic, Granulated",Creole,Central Asian
+"Garlic, Granulated",French,Central Asian
+"Garlic, Granulated",Greek,Central Asian
+"Garlic, Granulated",Indian,Central Asian
+"Garlic, Granulated",Italian,Central Asian
+"Garlic, Granulated",Korean,Central Asian
+"Garlic, Granulated",Mediterranean,Central Asian
+"Garlic, Granulated",Mexican,Central Asian
+"Garlic, Granulated",Middle Eastern,Central Asian
+"Garlic, Granulated",Moroccan,Central Asian
+"Garlic, Granulated",Thai,Central Asian
+"Garlic, Granulated",Vietnamese,Central Asian
 Ghost Pepper,Asian,India
 Ghost Pepper,Cajun,India
 Ghost Pepper,Caribbean,India
@@ -545,11 +545,11 @@ Ginger Powder,Moroccan,Southeast Asian
 Ginger Powder,North African,Southeast Asian
 Ginger Powder,Thai,Southeast Asian
 Ginger Powder,Vietnamese,Southeast Asian
-Crystallized Ginger,Asian,Southeast Asian
-Crystallized Ginger,Indian,Southeast Asian
-Amchoor,Asian,India
-Amchoor,Indian,India
-Amchoor,Southeast Asian,India
+"Ginger, Crystallized",Asian,Southeast Asian
+"Ginger, Crystallized",Indian,Southeast Asian
+Amchoor*,Asian,India
+Amchoor*,Indian,India
+Amchoor*,Southeast Asian,India
 Green Serrano Chile Powder,Asian,Mexico
 Green Serrano Chile Powder,Cajun,Mexico
 Green Serrano Chile Powder,Caribbean,Mexico
@@ -590,10 +590,10 @@ Ginger Root,Thai,Southeast Asian
 Ginger Root,Vietnamese,Southeast Asian
 Melegueta Pepper,African,Ghana
 Melegueta Pepper,Nigerian,Ghana
-Green Peppercorns,American,India
-Green Peppercorns,Asian,India
-Green Peppercorns,European,India
-Green Peppercorns,Indian,India
+Green Peppercorns*,American,India
+Green Peppercorns*,Asian,India
+Green Peppercorns*,European,India
+Green Peppercorns*,Indian,India
 Garlic Pepper Steak Seasoning,American,United States of America
 Ghost Pepper Powder,Asian,India
 Ghost Pepper Powder,Cajun,India
@@ -613,3 +613,542 @@ Grapefruit Powder,Moroccan,Barbados
 Gumbo File Powder,American,North American
 Gumbo File Powder,Cajun,North American
 Gumbo File Powder,Creole,North American
+Habanero Pepper,Asian,Mexico
+Habanero Pepper,Cajun,Mexico
+Habanero Pepper,Caribbean,Mexico
+Habanero Pepper,Chinese,Mexico
+Habanero Pepper,Indian,Mexico
+Habanero Pepper,Latin American,Mexico
+Habanero Pepper,Mexican,Mexico
+Habanero Pepper,Pakistani,Mexico
+Habanero Pepper,Southwestern American,Mexico
+Habanero Pepper,Thai,Mexico
+Harissa Spice Blend,European,Tunisia
+Harissa Spice Blend,Moroccan,Tunisia
+Harissa Spice Blend,North African,Tunisia
+Hickory Steak Seasoning,American,United States of America
+Honey Powder,American,European
+Honey Powder,Asian,European
+Honey Powder,Chinese,European
+Honey Powder,Greek,European
+Honey Powder,Middle Eastern,European
+Honey Powder,Moroccan,European
+Honey Powder,Turkish,European
+Hot Chili Powder,American,South American
+Hot Chili Powder,Cajun,South American
+Hot Chili Powder,Caribbean,South American
+Hot Chili Powder,Mexican,South American
+Hot Chili Powder,Southwestern American,South American
+Hot Chili Powder,Tex-Mex,South American
+Habanero Powder,Cajun,Mexico
+Habanero Powder,Caribbean,Mexico
+Habanero Powder,Mexican,Mexico
+Habanero Powder,Southwestern American,Mexico
+Habanero Powder,Tex-Mex,Mexico
+Habanero Powder,Thai,Mexico
+Horseradish Powder*,Austrian,West Asian
+Horseradish Powder*,European,West Asian
+Horseradish Powder*,German,West Asian
+Horseradish Powder*,Russian,West Asian
+Italian Herb Seasoning,European,Italy
+Italian Herb Seasoning,Italian,Italy
+Jalapeno Chili Powder,Cajun,Mexico
+Jalapeno Chili Powder,Latin American,Mexico
+Jalapeno Chili Powder,Southwestern American,Mexico
+Jalapeno Chili Powder,Tex-Mex,Mexico
+Japones Chile Peppers,Asian,Mexico
+Japones Chile Peppers,Cajun,Mexico
+Japones Chile Peppers,Caribbean,Mexico
+Japones Chile Peppers,Chinese,Mexico
+Japones Chile Peppers,Indian,Mexico
+Japones Chile Peppers,Latin American,Mexico
+Japones Chile Peppers,Mexican,Mexico
+Japones Chile Peppers,Pakistani,Mexico
+Japones Chile Peppers,Southwestern American,Mexico
+Japones Chile Peppers,Thai,Mexico
+Jerk Seasoning,Caribbean,Jamaica
+Jerk Seasoning,Jamaican,Jamaica
+Jamaican Jerk Seasoning,Caribbean,Jamaica
+Jamaican Jerk Seasoning,Jamaican,Jamaica
+Juniper Berries*,Alsatian,European
+Juniper Berries*,German,European
+Juniper Berries*,Mediterranean,European
+Juniper Berries*,Scandinavian,European
+Japanese Yellow Curry Powder,Japanese,Japan
+Kabsa Spice Mix,Arabic,Saudia Arabia
+Kabsa Spice Mix,Middle Eastern,Saudia Arabia
+King Trumpet Mushrooms,American,Mediterranean
+King Trumpet Mushrooms,Asian,Mediterranean
+King Trumpet Mushrooms,Chinese,Mediterranean
+King Trumpet Mushrooms,European,Mediterranean
+King Trumpet Mushrooms,French,Mediterranean
+Kaffir Lime Leaves,Indian,Southeast Asian
+Kaffir Lime Leaves,Indonesian,Southeast Asian
+Kaffir Lime Leaves,Thai,Southeast Asian
+Korean Black Garlic Seasoning,American,Korean
+Korean Black Garlic Seasoning,Asian,Korean
+Korean Black Garlic Seasoning,Korean,Korean
+Korean Red Chili Pepper Flakes,Asian,Korean
+Korean Red Chili Pepper Flakes,Chinese,Korean
+Korean Red Chili Pepper Flakes,Korean,Korean
+"Lemon Peel, Granulated",American,India
+"Lemon Peel, Granulated",Greek,India
+"Lemon Peel, Granulated",Mediterranean,India
+"Lemon Peel, Granulated",Middle Eastern,India
+"Lemon Peel, Granulated",Moroccan,India
+Long Pepper,Asian,India
+Long Pepper,Indian,India
+Long Pepper,Indonesian,India
+Long Pepper,Southeast Asian,India
+Long Pepper,Thai,India
+"Lavender, Dried*",French,European
+Lemon Juice Powder,Greek,India
+Lemon Juice Powder,Mediterranean,India
+Lemon Juice Powder,Middle Eastern,India
+Lemon Juice Powder,Moroccan,India
+Lemon Pepper Seasoning,American,India
+Lemon Pepper Seasoning,Indian,India
+Lion's Mane Mushrooms*,Asian,Asian
+Lemongrass Powder,Asian,Southeast Asian
+Lemongrass Powder,Indonesian,Southeast Asian
+Lemongrass Powder,Malaysian,Southeast Asian
+Lemongrass Powder,Southeast Asian,Southeast Asian
+Lemongrass Powder,Thai,Southeast Asian
+Lemongrass Powder,Vietnamese,Southeast Asian
+Lime Juice Powder,Greek,Indonesia
+Lime Juice Powder,Mediterranean,Indonesia
+Lime Juice Powder,Middle Eastern,Indonesia
+Lime Juice Powder,Moroccan,Indonesia
+Lobster Mushrooms,American,United States of America
+Lobster Mushrooms,Asian,United States of America
+Lobster Mushrooms,Chinese,United States of America
+Lobster Mushrooms,European,United States of America
+Lobster Mushrooms,French,United States of America
+Mace,Asian,Indonesia
+Mace,English,Indonesia
+Mace,French,Indonesia
+Matsutake Mushrooms,American,Japan
+Matsutake Mushrooms,Asian,Japan
+Matsutake Mushrooms,Chinese,Japan
+Matsutake Mushrooms,European,Japan
+Matsutake Mushrooms,French,Japan
+"Molasses, Granulated",American,Caribbean
+"Molasses, Granulated",European,Caribbean
+"Molasses, Granulated",Canadian,Caribbean
+"Molasses, Granulated",Caribbean,Caribbean
+Mousseron Mushrooms,American,Bulgaria
+Mousseron Mushrooms,Asian,Bulgaria
+Mousseron Mushrooms,Bulgarian,Bulgaria
+Mousseron Mushrooms,Chinese,Bulgaria
+Mousseron Mushrooms,European,Bulgaria
+Mousseron Mushrooms,French,Bulgaria
+"Mustard Seeds, Brown",French,India
+"Mustard Seeds, Brown",German,India
+"Mustard Seeds, Brown",Indian,India
+"Mustard Seeds, Brown",Italian,India
+"Mustard Seeds, Brown",Mediterranean,India
+"Mustard Seeds, Brown",Scandinavian,India
+Maitake Mushrooms* ,American,North American
+Maitake Mushrooms* ,Asian,North American
+Maitake Mushrooms* ,Chinese,North American
+Maitake Mushrooms* ,European,North American
+Maitake Mushrooms* ,French,North American
+Mediterranean Spice Blend,Mediterranean,Mediterranean
+Mild Chile Threads,Asian,Korean
+Mild Chile Threads,Cajun,Korean
+Mild Chile Threads,Caribbean,Korean
+Mild Chile Threads,Chinese,Korean
+Mild Chile Threads,Indian,Korean
+Mild Chile Threads,Korean,Korean
+Mild Chile Threads,Latin American,Korean
+Mild Chile Threads,Pakistani,Korean
+Mild Chile Threads,Southwestern American,Korean
+Mild Chile Threads,Thai,Korean
+Morel Mushrooms*,American,North American
+Morel Mushrooms*,Asian,North American
+Morel Mushrooms*,Chinese,North American
+Morel Mushrooms*,European,North American
+Morel Mushrooms*,French,North American
+Mulato Chile Peppers,Asian,Mexico
+Mulato Chile Peppers,Cajun,Mexico
+Mulato Chile Peppers,Carr,Mexico
+Mulato Chile Peppers,Chinese,Mexico
+Mulato Chile Peppers,Indian,Mexico
+Mulato Chile Peppers,Latin American,Mexico
+Mulato Chile Peppers,Mexican,Mexico
+Mulato Chile Peppers,Pakistani,Mexico
+Mulato Chile Peppers,Southwestern American,Mexico
+Mulato Chile Peppers,Thai,Mexico
+Mustard Powder,French,France
+Mustard Powder,German,France
+Mustard Powder,Indian,France
+Mustard Powder,Italian,France
+Mustard Powder,Mediterranean,France
+Mustard Powder,Scandinavian,France
+"Mustard Seeds, Yellow",Scandinavian,Mediterranean
+Marjoram,French,West Asian
+Marjoram,Italian,West Asian
+Marjoram,Mediterranean,West Asian
+Marjoram,Middle Eastern,West Asian
+Marjoram,North African,West Asian
+Marjoram,American,West Asian
+Marjoram,Canadian,West Asian
+"Mustard Seeds, Black",French,North African
+"Mustard Seeds, Black",German,North African
+"Mustard Seeds, Black",Indian,North African
+"Mustard Seeds, Black",Italian,North African
+"Mustard Seeds, Black",Mediterranean,North African
+"Mustard Seeds, Black",Scandinavian,North African
+"Mustard Seeds, Black",North African,North African
+Nameko Mushrooms,Asian,Asian
+Nameko Mushrooms,Chinese,Asian
+Nameko Mushrooms,European,Asian
+Nameko Mushrooms,French,Asian
+New Mexico Chiles,American,United States of America
+New Mexico Chiles,Asian,United States of America
+New Mexico Chiles,Cajun,United States of America
+New Mexico Chiles,Caribbean,United States of America
+New Mexico Chiles,Chinese,United States of America
+New Mexico Chiles,Indian,United States of America
+New Mexico Chiles,Latin American,United States of America
+New Mexico Chiles,Mexican,United States of America
+New Mexico Chiles,Pakistani,United States of America
+New Mexico Chiles,Southwestern American,United States of America
+New Mexico Chiles,Thai,United States of America
+Nigella Seeds*,Austrian,Asian
+Nigella Seeds*,English,Asian
+Nigella Seeds*,European,Asian
+Nigella Seeds*,German,Asian
+Nigella Seeds*,Hungarian,Asian
+Nigella Seeds*,Moroccan,Asian
+"Nutmeg, Ground",Asian,Indonesia
+"Nutmeg, Ground",Caribbean,Indonesia
+"Nutmeg, Ground",Chinese,Indonesia
+"Nutmeg, Ground",German,Indonesia
+"Nutmeg, Ground",Indian,Indonesia
+"Nutmeg, Ground",Italian,Indonesia
+"Nutmeg, Ground",Latin American,Indonesia
+"Nutmeg, Ground",Middle Eastern,Indonesia
+"Nutmeg, Ground",Scandinavian,Indonesia
+"Nutmeg, Ground",Southeast Asian,Indonesia
+"Nutmeg, Whole",Asian,Indonesia
+"Nutmeg, Whole",Chinese,Indonesia
+"Nutmeg, Whole",German,Indonesia
+"Nutmeg, Whole",Greek,Indonesia
+"Nutmeg, Whole",Indian,Indonesia
+"Nutmeg, Whole",Latin American,Indonesia
+"Nutmeg, Whole",Southeast Asian,Indonesia
+Nora Chile Peppers,Asian,Spain
+Nora Chile Peppers,Cajun,Spain
+Nora Chile Peppers,Caribbean,Spain
+Nora Chile Peppers,Chinese,Spain
+Nora Chile Peppers,Indian,Spain
+Nora Chile Peppers,Latin American,Spain
+Nora Chile Peppers,Mexican,Spain
+Nora Chile Peppers,Pakistani,Spain
+Nora Chile Peppers,Southwestern American,Spain
+Nora Chile Peppers,Thai,Spain
+New Mexico Chili Powder,Cajun,United States of America
+New Mexico Chili Powder,Caribbean,United States of America
+New Mexico Chili Powder,Latin American,United States of America
+New Mexico Chili Powder,Mexican,United States of America
+New Mexico Chili Powder,Southwestern American,United States of America
+Onion Powder,American,Central Asian
+Onion Powder,Asian,Central Asian
+Onion Powder,European,Central Asian
+Onion Powder,Mexican,Central Asian
+Onion Powder,Middle Eastern,Central Asian
+Onion Powder (Toasted),African,Central Asian
+Onion Powder (Toasted),American,Central Asian
+Onion Powder (Toasted),Asian,Central Asian
+Onion Powder (Toasted),European,Central Asian
+Onion Powder (Toasted),Latin American,Central Asian
+Onion Powder (Toasted),Middle Eastern,Central Asian
+"Onion, Minced",American,Central Asian
+"Onion, Minced",Asian,Central Asian
+"Onion, Minced",European,Central Asian
+"Onion, Minced",Mexican,Central Asian
+"Onion, Minced",Middle Eastern,Central Asian
+"Oregano, Mediterranean",Greek,Mediterranean
+"Oregano, Mediterranean",Italian,Mediterranean
+"Oregano, Mediterranean",Mediterranean,Mediterranean
+"Oregano, Mediterranean",Mexican,Mediterranean
+"Oregano, Mediterranean",Spanish,Mediterranean
+"Oregano, Mediterranean",Tex-Mex,Mediterranean
+"Oregano, Mediterranean",Turkish,Mediterranean
+"Orange Peel, Dried (Granulated)",American,Asian
+"Orange Peel, Dried (Granulated)",Italian,Asian
+"Oregano, Mexican (Greek-Cut)",American,Mexico
+"Oregano, Mexican (Greek-Cut)",Greek,Mexico
+"Oregano, Mexican (Greek-Cut)",Italian,Mexico
+"Oregano, Mexican (Greek-Cut)",Malaysian,Mexico
+"Oregano, Mexican (Greek-Cut)",Mexican,Mexico
+"Oregano, Mexican (Greek-Cut)",Tex-Mex,Mexico
+"Oyster Mushrooms, Dried",American,Germany
+"Oyster Mushrooms, Dried",Asian,Germany
+"Oyster Mushrooms, Dried",Chinese,Germany
+"Oyster Mushrooms, Dried",European,Germany
+"Oyster Mushrooms, Dried",French,Germany
+"Oregano, Ground",Greek,Mediterranean
+"Oregano, Ground",Italian,Mediterranean
+"Oregano, Ground",Mediterranean,Mediterranean
+"Oregano, Ground",Mexican,Mediterranean
+"Oregano, Ground",Spanish,Mediterranean
+"Oregano, Ground",Tex-Mex,Mediterranean
+"Oregano, Mexican (Ground)",Greek,Mexico
+"Oregano, Mexican (Ground)",Italian,Mexico
+"Oregano, Mexican (Ground)",Mediterranean,Mexico
+"Oregano, Mexican (Ground)",Mexican,Mexico
+"Oregano, Mexican (Ground)",Spanish,Mexico
+"Oregano, Mexican (Ground)",Tex-Mex,Mexico
+"Paddy Straw Mushrooms, Dried",Asian,China
+"Paddy Straw Mushrooms, Dried",Chinese,China
+"Paddy Straw Mushrooms, Dried",European,China
+"Paddy Straw Mushrooms, Dried",French,China
+"Paddy Straw Mushrooms, Dried",Southeast Asian,China
+"Paprika, 120-140 ASTA",Cajun,Peru
+"Paprika, 120-140 ASTA",European,Peru
+"Paprika, 120-140 ASTA",Hungarian,Peru
+"Paprika, 120-140 ASTA",Indian,Peru
+"Paprika, 120-140 ASTA",Middle Eastern,Peru
+"Paprika, 120-140 ASTA",Spanish,Peru
+"Paprika, Hungarian, Smoked (Bittersweet)",Cajun,Hungary
+"Paprika, Hungarian, Smoked (Bittersweet)",Hungarian,Hungary
+"Paprika, Hungarian, Smoked (Bittersweet)",Indian,Hungary
+"Paprika, Hungarian, Smoked (Bittersweet)",Middle Eastern,Hungary
+"Paprika, Hungarian, Smoked (Bittersweet)",Moroccan,Hungary
+"Paprika, Hungarian, Smoked (Bittersweet)",Spanish,Hungary
+"Paprika, Hungarian, Smoked (Bittersweet)",Turkish,Hungary
+Parsley Flakes,French,Mediterranean
+Parsley Flakes,Italian,Mediterranean
+Parsley Flakes,Mediterranean,Mediterranean
+Parsley Flakes,Middle Eastern,Mediterranean
+Parsley Flakes,Moroccan,Mediterranean
+Parsley Flakes,Spanish,Mediterranean
+"Peppermint, Crushed",African,European
+"Peppermint, Crushed",American,European
+"Peppermint, Crushed",Asian,European
+"Peppermint, Crushed",Chinese,European
+"Peppermint, Crushed",European,European
+"Peppermint, Crushed",Middle Eastern,European
+"Peppermint, Crushed",North African,European
+"Peppermint, Crushed",Turkish,European
+"Poppy Seeds, Blue",Asian,Mediterranean
+"Poppy Seeds, Blue",Indian,Mediterranean
+"Poppy Seeds, Blue",Mediterranean,Mediterranean
+"Poppy Seeds, Blue",Turkish,Mediterranean
+"Porcini Mushrooms, Cepes*",American,Italy
+"Porcini Mushrooms, Cepes*",Asian,Italy
+"Porcini Mushrooms, Cepes*",Chinese,Italy
+"Porcini Mushrooms, Cepes*",European,Italy
+"Porcini Mushrooms, Cepes*",French,Italy
+Porcini Powder*,American,Italy
+Porcini Powder*,Asian,Italy
+Porcini Powder*,Chinese,Italy
+Porcini Powder*,European,Italy
+Porcini Powder*,French,Italy
+Poultry Seasoning Spice Rub,American,United States of America
+Poultry Seasoning Spice Rub,European,United States of America
+"Puya Chile Peppers, Dried",Asian,Mexico
+"Puya Chile Peppers, Dried",Cajun,Mexico
+"Puya Chile Peppers, Dried",Caribbean,Mexico
+"Puya Chile Peppers, Dried",Chinese,Mexico
+"Puya Chile Peppers, Dried",Indian,Mexico
+"Puya Chile Peppers, Dried",Latin American,Mexico
+"Puya Chile Peppers, Dried",Mexican,Mexico
+"Puya Chile Peppers, Dried",Pakistani,Mexico
+"Puya Chile Peppers, Dried",Southwestern American,Mexico
+"Puya Chile Peppers, Dried",Thai,Mexico
+Paella Seasoning,Spanish,Spain
+"Paprika, 85-100 ASTA",Cajun,Mexico
+"Paprika, 85-100 ASTA",European,Mexico
+"Paprika, 85-100 ASTA",Hungarian,Mexico
+"Paprika, 85-100 ASTA",Indian,Mexico
+"Paprika, 85-100 ASTA",Middle Eastern,Mexico
+"Paprika, 85-100 ASTA",Moroccan,Mexico
+"Paprika, 85-100 ASTA",Spanish,Mexico
+"Paprika, 85-100 ASTA",Turkish,Mexico
+"Paprika, Hungarian, Smoked (Sweet)",Cajun,Hungary
+"Paprika, Hungarian, Smoked (Sweet)",Hungarian,Hungary
+"Paprika, Hungarian, Smoked (Sweet)",Indian,Hungary
+"Paprika, Hungarian, Smoked (Sweet)",Middle Eastern,Hungary
+"Paprika, Hungarian, Smoked (Sweet)",Moroccan,Hungary
+"Paprika, Hungarian, Smoked (Sweet)",Spanish,Hungary
+"Paprika, Hungarian, Smoked (Sweet)",Turkish,Hungary
+Pasilla Chili Powder,Asian,Mexico
+Pasilla Chili Powder,Cajun,Mexico
+Pasilla Chili Powder,Caribbean,Mexico
+Pasilla Chili Powder,Chinese,Mexico
+Pasilla Chili Powder,Indian,Mexico
+Pasilla Chili Powder,Latin American,Mexico
+Pasilla Chili Powder,Mexican,Mexico
+Pasilla Chili Powder,Pakistani,Mexico
+Pasilla Chili Powder,Southwestern American,Mexico
+Pasilla Chili Powder,Tex-Mex,Mexico
+Pasilla Chili Powder,Thai,Mexico
+"Pequin Chiles, Dried",Asian,Mexico
+"Pequin Chiles, Dried",Cajun,Mexico
+"Pequin Chiles, Dried",Caribbean,Mexico
+"Pequin Chiles, Dried",Chinese,Mexico
+"Pequin Chiles, Dried",Indian,Mexico
+"Pequin Chiles, Dried",Latin American,Mexico
+"Pequin Chiles, Dried",Mexican,Mexico
+"Pequin Chiles, Dried",Pakistani,Mexico
+"Pequin Chiles, Dried",Southwestern American,Mexico
+"Pequin Chiles, Dried",Thai,Mexico
+Pink Peppercorns,American,Peru
+Pink Peppercorns,Asian,Peru
+Pink Peppercorns,Brazilian,Peru
+Pink Peppercorns,European,Peru
+"Poppy Seeds, White*",Asian,India
+"Poppy Seeds, White*",Indian,India
+"Poppy Seeds, White*",Mediterranean,India
+"Poppy Seeds, White*",Turkish,India
+"Porcini Mushrooms, Dried*",American,European
+"Porcini Mushrooms, Dried*",Asian,European
+"Porcini Mushrooms, Dried*",Chinese,European
+"Porcini Mushrooms, Dried*",European,European
+"Porcini Mushrooms, Dried*",French,European
+Portabella Mushroom Powder,American,Italy
+Portabella Mushroom Powder,Asian,Italy
+Portabella Mushroom Powder,Chinese,Italy
+Portabella Mushroom Powder,European,Italy
+Portabella Mushroom Powder,French,Italy
+Portabella Mushroom Powder,Italian,Italy
+"Panch Phoron, Bengali Five-Spice",Indian,India
+"Paprika, Hungarian (Sweet)",Cajun,Hungary
+"Paprika, Hungarian (Sweet)",Hungarian,Hungary
+"Paprika, Hungarian (Sweet)",Indian,Hungary
+"Paprika, Hungarian (Sweet)",Middle Eastern,Hungary
+"Paprika, Hungarian (Sweet)",Moroccan,Hungary
+"Paprika, Hungarian (Sweet)",Spanish,Hungary
+"Paprika, Hungarian (Sweet)",Turkish,Hungary
+"Paprika, Spanish, Smoked (Hot)",Cajun,Spain
+"Paprika, Spanish, Smoked (Hot)",Huna,Spain
+"Paprika, Spanish, Smoked (Hot)",Indian,Spain
+"Paprika, Spanish, Smoked (Hot)",Middle Eastern,Spain
+"Paprika, Spanish, Smoked (Hot)",Moroccan,Spain
+"Paprika, Spanish, Smoked (Hot)",Spanish,Spain
+"Paprika, Spanish, Smoked (Hot)",Turkish,Spain
+Pasilla Pepper,Asian,Mexico
+Pasilla Pepper,Cajun,Mexico
+Pasilla Pepper,Caribbean,Mexico
+Pasilla Pepper,Chinese,Mexico
+Pasilla Pepper,Indian,Mexico
+Pasilla Pepper,Latin American,Mexico
+Pasilla Pepper,Mexican,Mexico
+Pasilla Pepper,Pakistani,Mexico
+Pasilla Pepper,Southwestern American,Mexico
+Pasilla Pepper,Thai,Mexico
+Porcini Mushroom Rub*,American,European
+Porcini Mushroom Rub*,Asian,European
+Porcini Mushroom Rub*,European,European
+"Porcini Mushrooms, Dried*",American,European
+"Porcini Mushrooms, Dried*",Asian,European
+"Porcini Mushrooms, Dried*",Chinese,European
+"Porcini Mushrooms, Dried*",European,European
+"Porcini Mushrooms, Dried*",French,European
+Portabella Mushrooms,American,Italy
+Portabella Mushrooms,Asian,Italy
+Portabella Mushrooms,Chinese,Italy
+Portabella Mushrooms,European,Italy
+Portabella Mushrooms,French,Italy
+Ras El Hanout,Moroccan,North African
+Red Chili Flakes (Aleppo-Style),American,Syria
+Red Chili Flakes (Aleppo-Style),Asian,Syria
+Red Chili Flakes (Aleppo-Style),Chinese,Syria
+Red Chili Flakes (Aleppo-Style),Mediterranean,Syria
+Red Chili Flakes (Aleppo-Style),Middle Eastern,Syria
+"Reishi Mushrooms, Dried*",American,Asian
+"Reishi Mushrooms, Dried*",Asian,Asian
+"Reishi Mushrooms, Dried*",Chinese,Asian
+"Reishi Mushrooms, Dried*",European,Asian
+"Reishi Mushrooms, Dried*",French,Asian
+"Red Pepper, Crushed",Cajun,South American
+"Red Pepper, Crushed",Creole,South American
+"Red Pepper, Crushed",Indian,South American
+"Red Pepper, Crushed",Italian,South American
+"Red Pepper, Crushed",Mexican,South American
+"Red Pepper, Crushed",Thai,South American
+"Rosemary, Dried",French,Mediterranean
+"Rosemary, Dried",Italian,Mediterranean
+"Rosemary, Dried",Mediterranean,Mediterranean
+Raspberry Powder,Greek,European
+Raspberry Powder,Mediterranean,European
+Raspberry Powder,Middle Eastern,European
+Raspberry Powder,Moroccan,European
+"Rosemary, Ground",French,Mediterranean
+"Rosemary, Ground",Italian,Mediterranean
+"Rosemary, Ground",Mediterranean,Mediterranean
+Saffron Milk Cap Mushrooms,Indian,European
+Saffron Milk Cap Mushrooms,Iranian,European
+Saffron Milk Cap Mushrooms,Italian,European
+Saffron Milk Cap Mushrooms,Moroccan,European
+Saffron Milk Cap Mushrooms,Southeast Asian,European
+Star Anise,Asian,China
+Star Anise,Chinese,China
+Star Anise,Indian,China
+Star Anise,Malaysian,China
+Star Anise,Vietnamese,China
+Spearmint*,American,Egypt
+Spearmint*,Arabic,Egypt
+Spearmint*,European,Egypt
+Spearmint*,French,Egypt
+Spearmint*,German,Egypt
+Spearmint*,Greek,Egypt
+Spearmint*,Indian,Egypt
+Spearmint*,Malaysian,Egypt
+Spearmint*,Mexican,Egypt
+Spearmint*,Middle Eastern,Egypt
+Spearmint*,Moroccan,Egypt
+Spearmint*,Southeast Asian,Egypt
+Spearmint*,Spanish,Egypt
+Spearmint*,Sri Lankan,Egypt
+Spearmint*,Vietnamese,Egypt
+Shallots,European,Asian
+Shallots,French,Asian
+Szechuan Peppercorns,Caribbean,China
+Szechuan Peppercorns,European,China
+Szechuan Peppercorns,Indian,China
+Szechuan Peppercorns,Italian,China
+Szechuan Peppercorns,Mexican,China
+Szechuan Peppercorns,Chinese,China
+Tandoori Spice,Indian,Iran
+Thyme,French,Mediterranean
+Thyme,Greek,Mediterranean
+Thyme,Italian,Mediterranean
+Thyme,Mediterranean,Mediterranean
+Thyme,Spanish,Mediterranean
+"Thai Chili Pepper, Red",Asian,South American
+"Thai Chili Pepper, Red",Cajun,South American
+"Thai Chili Pepper, Red",Caribbean,South American
+"Thai Chili Pepper, Red",Chinese,South American
+"Thai Chili Pepper, Red",Indian,South American
+"Thai Chili Pepper, Red",Latin American,South American
+"Thai Chili Pepper, Red",Mexican,South American
+"Thai Chili Pepper, Red",Pakistani,South American
+"Thai Chili Pepper, Red",Southwestern American,South American
+"Thai Chili Pepper, Red",Thai,South American
+Turmeric Powder,Austrian,India
+Turmeric Powder,English,India
+Turmeric Powder,European,India
+Turmeric Powder,German,India
+Turmeric Powder,Hungarian,India
+Turmeric Powder,Moroccan,India
+"Wasabi, Powder",Asian,Japan
+"Wasabi, Powder",Japanese,Japan
+Worcestershire Sauce Powder,American,English
+Worcestershire Sauce Powder,Australian,English
+Worcestershire Sauce Powder,English,English
+Worcestershire Sauce Powder,Canadian,English
+Worcestershire Sauce Powder,Indonesian,English
+Worcestershire Sauce Powder,Mexican,English
+Worcestershire Sauce Powder,Thai,English
+Zaatar Spice,Iranian,Middle Eastern
+Zaatar Spice,Middle Eastern,Middle Eastern
+Zaatar Spice,North African,Middle Eastern
+Zaatar Spice,Turkish,Middle Eastern
+Wood Ear Mushrooms,Asian,Asian
+Wood Ear Mushrooms,Chinese,Asian
+Wood Ear Mushrooms,European,Asian
+Wood Ear Mushrooms,French,Asian
