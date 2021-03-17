@@ -20,32 +20,13 @@ class Chart extends React.Component {
     }
 
     drawChart() {
-        // const data = this.props.data;
-        //
-        // const svg = d3.select("body")
-        //     .append("svg")
-        //     .attr("width", this.props.width)
-        //     .attr("height", this.props.height)
-        //     .style("margin-left", 100);
-        //
-        // svg.selectAll("rect")
-        //     .data(data)
-        //     .enter()
-        //     .append("rect")
-        //     .attr("x", (d, i) => i * 70)
-        //     .attr("y", (d, i) => this.props.height - 10 * d)
-        //     .attr("width", 65)
-        //     .attr("height", (d, i) => d * 10)
-        //     .attr("fill", "green")
-
-        //--------------------------
-
-        d3.select('body')
+       d3.select('body')
             .append('div')
             .attr('id', 'mapDiv')
 
         const svg = d3.select('#mapDiv')
             .append("svg")
+            .attr('id', 'mapSVG')
             .attr("width", this.props.width)
             .attr("height", this.props.height)
 
@@ -63,11 +44,11 @@ class Chart extends React.Component {
 
         Promise.all([
             // d3.json('data_map.json'),
-            // d3.json('https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson'),
+            d3.json('https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson'),
             d3.csv(data)
-        ]).then(([/*map_data, */spices_data]) => {
-            // mapData = map_data
-            // readyMap()
+        ]).then(([map_data,spices_data]) => {
+            mapData = map_data
+            makeMap()
             spiceDataSetup(spices_data)
 
             /*TODO: When ready switch over to this
@@ -96,21 +77,23 @@ class Chart extends React.Component {
                     }
                     spicesData.push([rawData[i].Spice, cuisine, origin])
                      */
-                    console.log(rawData[i].Spice)
+                    // console.log(rawData[i].Spice)
                 }
         }
 
-        function readyMap() {
+        function makeMap() {
             // TODO: Switch out for real one
             // Draw the map
-            svg.append("g")
+            d3.select('svg').append("g")
                 .selectAll("path")
                 .data(mapData.features)
                 .enter().append("path")
                 .attr("fill", "#b8b8b8")
-                .attr("d", d3.geoPath()
-                    .projection(projection)
-                )
+                .style('opacity', 0.3)
+                .attr("d", d => {
+
+                    path(d.geometry.coordinates)
+                })
                 .style("stroke", "#fff")
                 .style("stroke-width", 0)
             // Add the path

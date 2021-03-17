@@ -16,14 +16,15 @@ class App extends React.Component {
   render() {
     return (
         <div>
-          <div id='Top' ref="Top">
+          <div id='Top' ref="Top" style={{marginBottom: '15%'}}>
             <NavBar />
-            <Introduction />
+            {/*<Introduction />*/}
           </div>
-          <div id='Middle' ref="Middle" style={{marginBottom: '15%'}}> 
+          <div id='Middle' ref="Middle" style={{marginBottom: '15%'}}>
+            <Chart id='choropleth'></Chart>
           </div>
           <div id='Bottom' style={{marginTop: '45%'}}>
-            <Bottom /> 
+            {/*<Bottom />*/}
           </div>
         </div>
       );
