@@ -95,7 +95,7 @@ class Chart extends React.Component {
                     path(d.geometry.coordinates)
                 })
                 .style("stroke", "#fff")
-                .style("stroke-width", 0)
+                .style("stroke-width", 1)
             // Add the path
             // svg.append("path")
             //     .attr("d", path(tradeRoute))
