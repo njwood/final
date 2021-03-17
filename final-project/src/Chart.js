@@ -41,8 +41,11 @@ class Chart extends React.Component {
 
         //--------------------------
 
-        const svg = d3.select('body')
+        const div = d3.select('body')
             .append('div')
+            .attr('id', 'mapDiv')
+
+        const svg = d3.select('#mapDiv')
             .append("svg")
             .attr("width", this.props.width)
             .attr("height", this.props.height)
@@ -67,8 +70,9 @@ class Chart extends React.Component {
 
         function readyMap() {
             // TODO: Switch out for real one
-            console.log(mapData)
             // Draw the map
+            console.log(mapData)
+            console.log(mapData.features)
             svg.append("g")
                 .selectAll("path")
                 .data(mapData.features)
