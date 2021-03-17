@@ -18,36 +18,36 @@ Aleppo Pepper (Mediterranean),Mediterranean,Turkey
 Aleppo Pepper (Mediterranean),Middle Eastern,Turkey
 Aleppo Pepper (Mediterranean),Moroccan,Turkey
 Aleppo Pepper (Mediterranean),Turkish,Turkey
-Ancho Chile ,Cajun,Mexico
-Ancho Chile ,Caribbean ,Mexico
-Ancho Chile ,Latin American,Mexico
-Ancho Chile ,Mexican,Mexico
-Ancho Chile ,Southwestern American,Mexico
-Annatto ,Caribbean,Latin American
-Annatto ,Latin American,Latin American
-Annatto ,Mexican,Latin American
+Ancho Chile,Cajun,Mexico
+Ancho Chile,Caribbean,Mexico
+Ancho Chile,Latin American,Mexico
+Ancho Chile,Mexican,Mexico
+Ancho Chile,Southwestern American,Mexico
+Annatto,Caribbean,Latin American
+Annatto,Latin American,Latin American
+Annatto,Mexican,Latin American
 Assam,Indian,India
-Aji Amarillo Chile ,Asian,Peru
-Aji Amarillo Chile ,Cajun,Peru
-Aji Amarillo Chile ,Caribbean,Peru
+Aji Amarillo Chile,Asian,Peru
+Aji Amarillo Chile,Cajun,Peru
+Aji Amarillo Chile,Caribbean,Peru
 Aji Amarillo Chile,Chinese,Peru
-Aji Amarillo Chile ,Indian,Peru
-Aji Amarillo Chile ,Latin American,Peru
-Aji Amarillo Chile ,Mexican,Peru
-Aji Amarillo Chile ,Pakistani,Peru
-Aji Amarillo Chile ,Southwestern American,Peru
-Aji Amarillo Chile ,Thai,Peru
-Allspice ,Caribbean,Jamaica
-Allspice ,English,Jamaica
-Allspice ,European,Jamaica
-Allspice ,Indian,Jamaica
-Allspice ,Jamaican,Jamaica
-Allspice ,Mediterranean,Jamaica
-Allspice ,Mexican,Jamaica
-Allspice ,Middle Eastern,Jamaica
-Allspice ,Canadian,Jamaica
-Allspice ,American,Jamaica
-Allspice ,Caribbean ,Jamaica
+Aji Amarillo Chile,Indian,Peru
+Aji Amarillo Chile,Latin American,Peru
+Aji Amarillo Chile,Mexican,Peru
+Aji Amarillo Chile,Pakistani,Peru
+Aji Amarillo Chile,Southwestern American,Peru
+Aji Amarillo Chile,Thai,Peru
+Allspice,Caribbean,Jamaica
+Allspice,English,Jamaica
+Allspice,European,Jamaica
+Allspice,Indian,Jamaica
+Allspice,Jamaican,Jamaica
+Allspice,Mediterranean,Jamaica
+Allspice,Mexican,Jamaica
+Allspice,Middle Eastern,Jamaica
+Allspice,Canadian,Jamaica
+Allspice,American,Jamaica
+Allspice,Caribbean,Jamaica
 Aji Paprika Chiles,Asian,Peru
 Aji Paprika Chiles,Cajun,Peru
 Aji Paprika Chiles,Caribbean,Peru
@@ -138,9 +138,9 @@ Black Garlic Cloves,Chinese,Korean
 Black Garlic Cloves,Indian,Korean
 Black Garlic Cloves,Korean,Korean
 Black Garlic Cloves,Vietnamese,Korean
-Black Salt ,Indian,India
-Black Salt ,Pakistani,India
-Black Salt ,Bangledeshi,India
+Black SaltÂ ,Indian,India
+Black SaltÂ ,Pakistani,India
+Black SaltÂ ,Bangledeshi,India
 Black Trumpet Mushrooms,American,Bulgaria
 Black Trumpet Mushrooms,Bulgarian,Bulgaria
 Black Trumpet Mushrooms,Chinese,Bulgaria
@@ -170,11 +170,11 @@ Cardamom Seeds,Indian,India
 Cardamom Seeds,Indonesian,India
 Cardamom Seeds,North African,India
 Cardamom Seeds,Scandinavian,India
-Cardamom (Red) ,Asian,India
-Cardamom (Red) ,Indian,India
-Cardamom (Red) ,Indonesian,India
-Cardamom (Red) ,North African,India
-Cardamom (Red) ,Scandinavian,India
+Cardamom (Red),Asian,India
+Cardamom (Red),Indian,India
+Cardamom (Red),Indonesian,India
+Cardamom (Red),North African,India
+Cardamom (Red),Scandinavian,India
 Cassia Bark,American,China
 Cassia Bark,Asian,China
 Cassia Bark,Chinese,China
@@ -215,7 +215,7 @@ Chiltepin Pepper,Pakistani,Mexico
 Chiltepin Pepper,Southwestern American,Mexico
 Chiltepin Pepper,Thai,Mexico
 Chipotle Chile Peppers (Morita),Cajun,Mexico
-Chipotle Chile Peppers (Morita),Caribbean ,Mexico
+Chipotle Chile Peppers (Morita),Caribbean,Mexico
 Chipotle Chile Peppers (Morita),Latin American,Mexico
 Chipotle Chile Peppers (Morita),Mexican,Mexico
 Chipotle Chile Peppers (Morita),Southwestern American,Mexico
@@ -443,16 +443,16 @@ Cocoa Nibs,American,South American
 Cocoa Nibs,Latin American,South American
 Cocoa Nibs,Mexican,South American
 Daikon Radish Seeds,American,China
-Dill ,European,West Asian
-Dill ,German,West Asian
-Dill ,Greek,West Asian
-Dill ,Mediterranean,West Asian
-Dill ,Middle Eastern,West Asian
-Dill ,American,West Asian
-Dill ,Canadian,West Asian
-Dill ,Russian,West Asian
-Dill ,Scandinavian,West Asian
-Dill ,Turkish,West Asian
+Dill,European,West Asian
+Dill,German,West Asian
+Dill,Greek,West Asian
+Dill,Mediterranean,West Asian
+Dill,Middle Eastern,West Asian
+Dill,American,West Asian
+Dill,Canadian,West Asian
+Dill,Russian,West Asian
+Dill,Scandinavian,West Asian
+Dill,Turkish,West Asian
 Dry Mexican Mole Spice Blend,Mexican,Mexico
 Dry Mexican Mole Spice Blend,Tex-Mex,Mexico
 Indian Dill Seed,European,India
