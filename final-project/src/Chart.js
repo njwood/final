@@ -1,7 +1,6 @@
 import React from 'react'
-// import * as d3 from 'd3'
 import {Typography} from '@material-ui/core'
-
+import data from './data_spices.csv'
 const d3 = Object.assign({}, require("d3"))
 
 
@@ -63,9 +62,9 @@ class Chart extends React.Component {
         let spicesData;
 
         Promise.all([
-            d3.json('data_map.json'),
-            // d3.json('https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson'),
-            d3.csv('data_spices.csv')
+            // d3.json('data_map.json'),
+            d3.json('https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson'),
+            d3.csv(data)
         ]).then(([map_data, spices_data]) => {
             mapData = map_data
             readyMap()
@@ -73,15 +72,14 @@ class Chart extends React.Component {
         }).catch(err => console.log('Error loading or parsing data ' + err))
 
         function spiceDataSetup(rawData) {
-            //TODO: This is a stub
-            spicesData = rawData
+                for (let i = 0; i < rawData.length; i++){
+                    console.log(rawData[i].Spice)
+                }
         }
 
         function readyMap() {
             // TODO: Switch out for real one
             // Draw the map
-            console.log(mapData)
-            // console.log(mapData.features)
             svg.append("g")
                 .selectAll("path")
                 .data(mapData.features)
