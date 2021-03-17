@@ -41,7 +41,7 @@ class Chart extends React.Component {
 
         //--------------------------
 
-        const div = d3.select('body')
+        d3.select('body')
             .append('div')
             .attr('id', 'mapDiv')
 
@@ -60,19 +60,28 @@ class Chart extends React.Component {
 
         let path = d3.geoPath().projection(projection)
         let mapData;
+        let spicesData;
 
         Promise.all([
-            d3.json("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson")
-        ]).then(([geoData]) => {
-            mapData = geoData
+            d3.json('data_map.json'),
+            // d3.json('https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson'),
+            d3.csv('data_spices.csv')
+        ]).then(([map_data, spices_data]) => {
+            mapData = map_data
             readyMap()
+            spiceDataSetup(spices_data)
         }).catch(err => console.log('Error loading or parsing data ' + err))
+
+        function spiceDataSetup(rawData) {
+            //TODO: This is a stub
+            spicesData = rawData
+        }
 
         function readyMap() {
             // TODO: Switch out for real one
             // Draw the map
             console.log(mapData)
-            console.log(mapData.features)
+            // console.log(mapData.features)
             svg.append("g")
                 .selectAll("path")
                 .data(mapData.features)
@@ -84,13 +93,12 @@ class Chart extends React.Component {
                 .style("stroke", "#fff")
                 .style("stroke-width", 0)
             // Add the path
-            svg.append("path")
-                .attr("d", path(tradeRoute))
-                .style("fill", "none")
-                .style("stroke", "orange")
-                .style("stroke-width", 7)
+            // svg.append("path")
+            //     .attr("d", path(tradeRoute))
+            //     .style("fill", "none")
+            //     .style("stroke", "orange")
+            //     .style("stroke-width", 7)
         }
-        console.log('2')
     }
 
     render() {
