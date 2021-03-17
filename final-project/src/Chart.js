@@ -63,16 +63,39 @@ class Chart extends React.Component {
 
         Promise.all([
             // d3.json('data_map.json'),
-            d3.json('https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson'),
+            // d3.json('https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson'),
             d3.csv(data)
-        ]).then(([map_data, spices_data]) => {
-            mapData = map_data
-            readyMap()
+        ]).then(([/*map_data, */spices_data]) => {
+            // mapData = map_data
+            // readyMap()
             spiceDataSetup(spices_data)
+
+            /*TODO: When ready switch over to this
+            mapData = map_data
+            spiceDataSetup(spices_data).then(readyMap)
+             */
+
         }).catch(err => console.log('Error loading or parsing data ' + err))
 
         function spiceDataSetup(rawData) {
                 for (let i = 0; i < rawData.length; i++){
+                    /*
+                    let cuisine;
+                    let origin;
+                    map_data.features function (d) {
+                        if (cuisine != null && origin != null) {
+                            break;
+                        } else {
+                            if (d.name = rawData[i].Cuisine) {
+                                cuisine = d.coordinates.FIND_CENTROID
+                            }
+                            if (d.name = rawData[i].Origin) {
+                                origin = d.coordinates.FIND_CENTROID
+                            }
+                        }
+                    }
+                    spicesData.push([rawData[i].Spice, cuisine, origin])
+                     */
                     console.log(rawData[i].Spice)
                 }
         }
